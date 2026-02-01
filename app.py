@@ -86,7 +86,7 @@ elif menu == "Ethical Clearance":
 
     # Render PDF as image using PyMuPDF
     try:
-        pdf_path = "ethical_clearance.pdf"
+        pdf_path = "Ethical_clearance.pdf"
         doc = fitz.open(pdf_path)
         page = doc.load_page(0)  # first page
         pix = page.get_pixmap()
@@ -420,4 +420,5 @@ elif menu == "References":
     Rummel et al. (2021). Environmental Science & Technology  
     Gallitelli et al. (2023). Science of the Total Environment  
     Marino et al. (2024). Water  
+
     """)
