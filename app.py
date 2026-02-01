@@ -230,7 +230,37 @@ elif menu == "Results":
     """)
 
     # 3. Taxonomic Diversity
+      # Diversity indices images
     st.markdown("## 3. Taxonomic Diversity")
+    col1, col2, col3 = st.columns(3)
+    
+    try:
+        col1.image("Abundance1.png", caption="Abundance", use_container_width=True)
+    except:
+        col1.warning("Abundance1.png not found")
+    
+    try:
+        col2.image("Evenness5.png", caption="Evenness", use_container_width=True)
+    except:
+        col2.warning("Evenness5.png not found")
+    
+    try:
+        col3.image("Shannon2.png", caption="Shannon Index", use_container_width=True)
+    except:
+        col3.warning("Shannon2.png not found")
+
+    col4, col5 = st.columns(2)
+    
+    try:
+        col4.image("Simpson4.png", caption="Simpson Index", use_container_width=True)
+    except:
+        col4.warning("Simpson4.png not found")
+    
+    try:
+        col5.image("Species_richness3.png", caption="Species Richness", use_container_width=True)
+    except:
+        col5.warning("Species_richness3.png not found")
+
     # Table 2: Diversity indices
     st.markdown("### Table 2: Significance of Macroinvertebrate Diversity Indices Between Substrates and Seasons")
     table2_html = """
@@ -422,4 +452,5 @@ elif menu == "References":
     Marino et al. (2024). Water  
 
     """)
+
 
