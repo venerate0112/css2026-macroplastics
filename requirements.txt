@@ -1,3 +1,8 @@
 streamlit
 pandas
+Pillow
+qrcode[pil]
+PyMuPDF
 openpyxl
+
+
