@@ -1,7 +1,8 @@
-streamlit
-pandas
-Pillow
-qrcode
-PyMuPDF
-openpyxl
+streamlit==1.29.0
+pandas==2.1.4
+Pillow==10.1.0
+qrcode==7.4.2
+PyMuPDF==1.23.8
+openpyxl==3.1.2
+
 
