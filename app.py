@@ -101,7 +101,7 @@ elif menu == "Methods":
 
     # Study Area
     st.markdown("### Study Area")
-    st.image("study_Area_Map.png", use_container_width=True)
+    st.image("Study_Area_Map.png", use_container_width=True)
 
     st.markdown("""
     Sampling was conducted along the Crocodile River during S1 (cool-dry) and
@@ -422,3 +422,4 @@ elif menu == "References":
     Marino et al. (2024). Water  
 
     """)
+
