@@ -443,15 +443,16 @@ elif menu == "References":
     st.subheader("References")
     st.markdown("""
     Azevedo-Santos, V.M., et al. (2021). Plastic pollution: A focus on freshwater biodiversity. Ambio  
-    Blettler et al. (2018). Water Research  
-    Dalu et al. (2025). Scientific Reports  
-    Hoellein et al. (2014). PLOS One  
-    Amaral-Zettler et al. (2020). Nature Reviews Microbiology  
-    Rummel et al. (2021). Environmental Science & Technology  
-    Gallitelli et al. (2023). Science of the Total Environment  
-    Marino et al. (2024). Water  
+    Blettler, M.C.M., et al. (2018). Freshwater plastic pollution: Recognizing research biases. Water Research  
+    Dalu, T., et al. (2025). Macroplastic colonization by aquatic invertebrates in African rivers. Scientific Reports  
+    Hoellein, T.J., et al. (2014). Anthropogenic litter in urban freshwater ecosystems. PLOS One  
+    Amaral-Zettler, L.A., Zettler, E.R. and Mincer, T.J., 2020. Ecology of the plastisphere. Nature Reviews Microbiology  
+    Rummel, C.D., et al. (2021). Effects of polymer type on colonization. Environmental Science & Technology  
+    Gallitelli, L., et al. (2023). Seasonal dynamics of plastic colonization.. Science of the Total Environment  
+    Marino, F., et al. (2024). Comparative analysis of natural and artificial substrate communities. Water  
 
     """)
+
 
 
 
