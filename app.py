@@ -442,15 +442,17 @@ elif menu == "Acknowledgments":
 elif menu == "References":
     st.subheader("References")
     st.markdown("""
-     Dalu, T., et al. (2025). Macroplastic colonization by aquatic invertebrates in African rivers. *Scientific Reports*,
-     Blettler, M.C.M., et al. (2018). Freshwater plastic pollution: Recognizing research biases. *Water Research*,
-     Hoellein, T.J., et al. (2014). Anthropogenic litter in urban freshwater ecosystems. *PLOS One*,
-     Azevedo-Santos, V.M., et al. (2021). Plastic pollution: A focus on freshwater biodiversity. *Ambio*,
-     Gallitelli, L., et al. (2023). Seasonal dynamics of plastic colonization. *Science of the Total Environment*,
-     Marino, F., et al. (2024). Comparative analysis of natural and artificial substrate communities. *Water*,
-     Rummel, C.D., et al. (2021). Effects of polymer type on colonization. *Environmental Science & Technology*
+    Azevedo-Santos et al. (2021). Ambio  
+    Blettler et al. (2018). Water Research  
+    Dalu et al. (2025). Scientific Reports  
+    Hoellein et al. (2014). PLOS One  
+    Amaral-Zettler et al. (2020). Nature Reviews Microbiology  
+    Rummel et al. (2021). Environmental Science & Technology  
+    Gallitelli et al. (2023). Science of the Total Environment  
+    Marino et al. (2024). Water  
 
     """)
+
 
 
 
