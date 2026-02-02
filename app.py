@@ -442,7 +442,7 @@ elif menu == "Acknowledgments":
 elif menu == "References":
     st.subheader("References")
     st.markdown("""
-    Azevedo-Santos et al. (2021). Ambio  
+    Azevedo-Santos, V.M., et al. (2021). Plastic pollution: A focus on freshwater biodiversity. Ambio  
     Blettler et al. (2018). Water Research  
     Dalu et al. (2025). Scientific Reports  
     Hoellein et al. (2014). PLOS One  
@@ -452,6 +452,7 @@ elif menu == "References":
     Marino et al. (2024). Water  
 
     """)
+
 
 
 
